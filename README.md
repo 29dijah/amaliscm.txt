@@ -1,0 +1,2 @@
+# amaliscm.txt
+ujian amali
